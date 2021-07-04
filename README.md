@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vitalii Nikitchyn => @vnikitchyn
+- 👋 Hi, I’m Vitalii Nikitchyn
 Full stack. I am improving my skills time to time in regular basis, more focused on the front-end.
 - 👀 I’m not interested in a new job for now
 - 📫 How to reach me --> vnikitchyn@gmail.com
